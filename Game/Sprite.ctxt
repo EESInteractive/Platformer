@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ verzeichnis
+comment0.target=Sprite(int,\ int,\ java.lang.String)
+comment1.params=x\ y
+comment1.target=void\ setzeMittelpunkt(int,\ int)
+comment2.params=nSichtbar
+comment2.target=void\ setzeSichtbar(boolean)
+comment3.params=object
+comment3.target=boolean\ beruehrt(ea.Raum)
+comment4.params=
+comment4.target=boolean\ nenneSichtbar()
+comment5.params=
+comment5.target=int\ nenneX()
+comment6.params=
+comment6.target=int\ nenneY()
+comment7.params=bewegung
+comment7.target=void\ move(ea.Vektor)
+comment8.params=x\ y
+comment8.target=void\ move(float,\ float)
+comment9.params=winkelAenderung
+comment9.target=void\ drehenUm(float)
+numComments=10
